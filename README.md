@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="public\img\labuPaim.png" width="200" alt="Nest Logo" />
+  <img src="public\img\labuPaim-SemFundo.png" width="200" alt="Nest Logo" />
 </p>
 
 <p align="center">
@@ -17,6 +17,18 @@
 ## Descrição
 
 Api criada com [Nest](https://github.com/nestjs/nest) um framework com estrutura progressiva do Node.js com TypeScript do lado do servidor eficiente e escalável com documentação feita em Swagger. Persistência de dados no MongoDB Atlas e deploy feito no [Heroku](https://api--telzir.herokuapp.com/).
+
+## Comandos Utilizados
+
+```bash
+$ npm i -g @nestjs/cli
+// Instala o NestJS Globalmente
+```
+
+```bash
+$ nest new back_model-base
+// Criação das dependências do NestJs onde o nome do projeto é "back_model-base"
+```
 
 ## Instalação
 
