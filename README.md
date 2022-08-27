@@ -16,7 +16,7 @@
 
 ## Descrição
 
-Api criada com [Nest](https://github.com/nestjs/nest) um framework com estrutura progressiva do Node.js com TypeScript do lado do servidor eficiente e escalável com documentação feita em Swagger. Persistência de dados no MongoDB Atlas e deploy feito no [Heroku](https://api--telzir.herokuapp.com/).
+Modelo base de Api criada com [Nest](https://github.com/nestjs/nest) um framework com estrutura progressiva do Node.js com TypeScript do lado do servidor eficiente e escalável e documentação feita em Swagger.
 
 ## Comandos Utilizados
 
@@ -71,3 +71,4 @@ Nest é um projeto de código aberto licenciado pelo MIT. Se quiser acessar a do
 - Author - Victor Paim
 - Linkedin - [@labupaim](https://www.linkedin.com/in/labupaim/)
 - GitHub - [@LabuPaim](https://github.com/LabuPaim)
+- WhatsApp -  +55 (71) 9 8300-6611
