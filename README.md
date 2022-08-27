@@ -22,12 +22,12 @@ Api criada com [Nest](https://github.com/nestjs/nest) um framework com estrutura
 
 ```bash
 $ npm i -g @nestjs/cli
-[//]: # Instala o NestJS Globalmente
+# Instala o NestJS Globalmente
 ```
 
 ```bash
 $ nest new back_model-base
-[//]: # Criação das dependências do NestJs onde o nome do projeto é "back_model-base"
+# Criação das dependências do NestJs onde o nome do projeto é "back_model-base"
 ```
 
 ## Instalação
