@@ -30,6 +30,22 @@ $ nest new back_model-base
 # Criação das dependências do NestJs onde o nome do projeto é "back_model-base"
 ```
 
+
+```bash
+$ yarn add mongoose
+# Instalação do MongoDB
+```
+
+```bash
+$ yarn add @nestjs/mongoose
+# Instalação do MongoDB para NestJs
+```
+
+```bash
+$ yarn add @nestjs/swagger
+# Instalação do Swagger para NestJs
+```
+
 ## Instalação
 
 ```bash
